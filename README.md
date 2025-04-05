@@ -1,7 +1,8 @@
 # 📊 Server Performance Stats
 
 A lightweight Bash script to display real-time server performance metrics — perfect for DevOps, sysadmins, and Linux learners.
-https://github.com/wfoteping2101/server-performance-stats-
+
+🔗 [Project page on roadmap.sh](https://roadmap.sh/devops-projects/server-performance-stats)
 
 ---
 
