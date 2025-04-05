@@ -2,8 +2,6 @@
 
 A lightweight Bash script to display real-time server performance metrics — perfect for DevOps, sysadmins, and Linux learners.
 
-🔗 [Project page on roadmap.sh](https://roadmap.sh/devops-projects/server-performance-stats)
-
 ---
 
 ## 🛠️ Features
@@ -63,3 +61,6 @@ William Foteping
 
 ---
 
+## 🔗 Project Source
+
+This project is based on the [Server Performance Stats](https://roadmap.sh/devops-projects/server-performance-stats) project on roadmap.sh.
