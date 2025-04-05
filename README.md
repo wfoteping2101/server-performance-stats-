@@ -1,28 +1,66 @@
 
-# Server Performance Stats
+# 📊 Server Performance Stats
 
-## Overview
+A lightweight Bash script to display real-time server performance metrics — perfect for DevOps, sysadmins, and Linux learners.
 
-This Bash script provides real-time server performance metrics, including CPU usage, memory usage, disk usage, and the top 5 processes by CPU and memory consumption.
+---
 
-## Features
+## 🛠 Features
 
-- **CPU Usage**: Displays the percentage of CPU used and idle.
-- **Memory Usage**: Shows used, free, and total memory.
-- **Disk Usage**: Provides details on disk space usage and availability.
-- **Top Processes**: Lists the top 5 processes consuming the most CPU and memory.
+- 🧠 **CPU Usage** – % used and idle
+- 💾 **Memory Usage** – Total, used, and free
+- 💽 **Disk Usage** – Total, used, free, and % usage
+- 🔥 **Top Processes** – By CPU & memory
+- 🖥 **Optional Info** – Uptime, OS version, logged-in users
 
-## Prerequisites
+---
 
-- Unix-based operating system (Linux, macOS)
-- Bash shell
+## 🚀 Getting Started
 
-## Usage
+### 📥 Clone the Repo
 
-1. **Make the script executable**:
-   ```bash
-   chmod +x server-stats.sh
+```bash
+git clone https://github.com/wfoteping2101/server-performance-stats-.git
+cd server-performance-stats-
+
+▶️ Run the Script
+
+chmod +x server-stats.sh
+./server-stats.sh
+
+📸 Sample Output
+
+🔧 Server Performance Stats
+-----------------------------
+
+🧠 CPU Usage:
+Used: 17.3%, Idle: 82.7%
+
+🗄️ Memory Usage:
+Used: 2.4Gi, Free: 1.6Gi, Total: 4.0Gi
+
+💽 Disk Usage:
+Used: 22G, Free: 78G, Total: 100G, Usage: 22%
+
+🔥 Top 5 Processes by CPU Usage:
+PID  PPID CMD                         %CPU
+1234  1    /usr/bin/python3 script.py 12.5
+...
+
+💾 Top 5 Processes by Memory Usage:
+PID  PPID CMD                         %MEM
+1234  1    /usr/bin/java app.jar      10.2
+...
+
+✅ Script execution completed.
 
 
 ![image](https://github.com/user-attachments/assets/ca4f13b0-c2c3-4294-accc-350207193070)
->>>>>>> 0c5de04 (Add script and README)
+
+🧠 Author
+William Foteping
+roadmap.sh/u/wfoteping
+
+
+
+
