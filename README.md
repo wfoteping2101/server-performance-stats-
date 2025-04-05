@@ -54,8 +54,11 @@ PID  PPID CMD                         %MEM
 
 ✅ Script execution completed.
 
+---
+
 ![image](https://github.com/user-attachments/assets/ca4f13b0-c2c3-4294-accc-350207193070)
->>>>>>> 0c5de04 (Add script and README)
+
+---
 
 🧠 Author
 William Foteping
