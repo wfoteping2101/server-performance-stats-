@@ -62,7 +62,7 @@ PID  PPID CMD                         %MEM
 
 ---
 
-##🧠 Author
+## 🧠 Author
 William Foteping
 roadmap.sh/u/wfoteping
 
